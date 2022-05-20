@@ -42,6 +42,7 @@ else:
 print("Your total score is: "+str(score))
 print("you got:"+str((score/5)*100)+"%")
 print("Thank you for playing this game..")
+print("Uploaded to git")
 
 
 
